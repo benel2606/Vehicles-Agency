@@ -31,15 +31,38 @@ System development for a vehicle management agency - Using **JAVA** language, us
   
 |Design Pattern  | Use |
 | :-------------: | ------------- |
-| **Singlethon**  | Implementing in "main menu" window to limit the number of windows  |
-| **Deligator**  | Using to avoid multiple inheritance   |
-| **Decorator** | Using to adding a vehicle color and a vehicle status in run-time |
-| **Memento** | Using to saving 3 state and to return to the State|
-| **Abstract factory** | Using to producing new vehicles and to make sure that the system is expandable |
-| **Observer**| Using to calculating the total mileage of all vehicles test drive |
-| **Thread pool**| Using to limit the number of test drive windows |
+| **Singlethon**  | Implementing in "main menu" window to limit the number of windows.  |
+| **Deligator**  | Using to avoid multiple inheritance.   |
+| **Decorator** | Using to adding a vehicle color and a vehicle status in run-time. |
+| **Memento** | Using to saving 3 state and to return to the State. |
+| **Abstract factory** | Using to producing new vehicles and to make sure that the system is expandable. |
+| **Observer**| Using to calculating the total mileage of all vehicles test drive. |
+| **Thread pool**| Using to limit the number of test drive windows. |
 
-###ScreenShots
+### Screenshots
+
+> Add new vehicle
+![add new vehicle](https://user-images.githubusercontent.com/33378368/45181694-d3b31e00-b227-11e8-9a2b-38d16c37c480.gif)
+
+> Buy vehicle 
+![buy vehice](https://user-images.githubusercontent.com/33378368/45181788-1d9c0400-b228-11e8-8384-750511f4137a.gif)
+
+> Test drive 
+![test drive](https://user-images.githubusercontent.com/33378368/45181816-30163d80-b228-11e8-8db2-a3f4b9aeef90.gif)
+
+> Change flag 
+![change flag](https://user-images.githubusercontent.com/33378368/45181811-2f7da700-b228-11e8-960c-a682acf22f8b.gif)
+
+> Vehicles inventory
+![inventory](https://user-images.githubusercontent.com/33378368/45181812-2f7da700-b228-11e8-8f4b-31dcbadcdb7e.gif)
+
+> Save current state and back to previous state
+![previous state](https://user-images.githubusercontent.com/33378368/45181813-2f7da700-b228-11e8-84ce-50dff08cd80e.gif)
+
+> Reset mileage
+![reset mileage](https://user-images.githubusercontent.com/33378368/45181815-30163d80-b228-11e8-9144-81c38043b907.gif)
+
+
 
   
   
