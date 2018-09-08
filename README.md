@@ -23,7 +23,7 @@ System development for a vehicle management agency - Using **JAVA** language, us
 + **System operations:**
   * Reset mileage - reset all the mileage after the test drive.
   * Show vehicles inventory - show all vehicles that exists in the inventory.
-  * Save cuttrnt state - save the current system state with the vehicles inventory, mileage and all changes.
+  * Save current state - save the current system state with the vehicles inventory, mileage and all changes.
   * Back to previous state - You can go back up to 3 state.
   
   ### Design Patterns:
