@@ -9,7 +9,7 @@ System development for a vehicle management agency - Using **JAVA** language, us
   * Add new Vehices - adding new vehicles to the vehicles inventory.
   * Buy vehicle - buying vehicle from  the vehicles inventory.
   * Test drive - take a vehicles from the vehicles inventory to a test drive.
-  * Change flag - if the vehicle is sea-vehicles then you can change his flag.
+  * Change flag - if the vehicle is a sea-vehicle you can change its flag.
 + **Vehicles:**
   * Jeep
   * Frigate
